@@ -1,8 +1,8 @@
-# **sena-base-2021 v6.0.5**
+# **Factores de riesgo, enfermedades y ejercicio físico**
 
 ## **Enlace GitHubPages**
 
-[https://ecored-sena.github.io/ECORED_TEMPLATE_REPO/](https://ecored-sena.github.io/ECORED_TEMPLATE_REPO/)
+[https://ecored-sena.github.io/CF2_52520070_PROMOCION_ACTIVIDAD_FISICA_VIDA_SALUDABLE/#/](https://ecored-sena.github.io/CF2_52520070_PROMOCION_ACTIVIDAD_FISICA_VIDA_SALUDABLE/#/)
 
 #
 
