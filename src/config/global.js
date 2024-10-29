@@ -116,32 +116,173 @@ export default {
   },
   complementario: [
     {
-      tema: '',
-      referencia: '',
-      tipo: '',
-      link: 'https://www.google.com/',
+      tema: 'Factores de riesgo modificables.',
+      referencia:
+        'Mutual de Seguridad CCh. (2014). Dra María José Saul - Riesgos Cardiovasculares: Factores Modificables y No Modificables. [Archivo de video] Youtube.',
+      tipo: 'Video',
+      link:
+        'https://www.youtube.com/watch?v=zB-fwl-wEdo&ab_channel=MutualdeSeguridadCChC',
     },
     {
-      tema: '',
-      referencia: '',
-      tipo: '',
-      descarga: '/downloads/prueba.pdf',
+      tema:
+        'La actividad física como factor protector de enfermedades no transmisibles.',
+      referencia:
+        'UGRmedia. (2016). #aCienciaCerca - 28. Actividad física y su relación con la salud y el cerebro, por Francisco Ortega. [Archivo de video] Youtube.',
+      tipo: 'Video',
+      link: 'https://www.youtube.com/watch?v=2ldDvFbm7qc&ab_channel=UGRmedia',
+    },
+    {
+      tema: 'Enfermedades cardiovasculares.',
+      referencia: 'OMS. (2021). Enfermedades cardiovasculares.',
+      tipo: 'Documento',
+      link:
+        'https://www.who.int/es/news-room/fact-sheets/detail/cardiovascular-diseases-(cvds)#:~:text=Las%20enfermedades%20cardiovasculares%20son%20un%20grupo',
+    },
+    {
+      tema: 'Diabetes <i>mellitus</i>.',
+      referencia:
+        'Clínica Universidad de Navarra. (2024). Diabetes mellitus. Tipos, síntomas, diagnóstico y tratamiento. Clínica Universidad de Navarra. [Archivo de video] Youtube.',
+      tipo: 'Video',
+      link: 'https://www.youtube.com/watch?v=6GocZ96xomU&ab_channel=Mediversia',
+    },
+    {
+      tema: 'Enfermedades respiratorias crónicas y actividad física.',
+      referencia:
+        'MinSalud. (2017). ABECÉ. Tómate la vida con un segundo aire. Estrategia para la prevención y control de las enfermedades respiratorias crónicas.',
+      tipo: 'Documento',
+      link:
+        'https://www.minsalud.gov.co/sites/rid/Lists/BibliotecaDigital/RIDE/VS/PP/ENT/abc-estrategia-prevn-enfer-resp-cronica-2017.pdf',
+    },
+    {
+      tema: 'Cáncer.',
+      referencia:
+        'Academia Play. (2017). ¿Qué es la enfermedad del Cáncer?.  [Archivo de video] Youtube.',
+      tipo: 'Video',
+      link:
+        'https://www.youtube.com/watch?v=74vGtHSfCT0&ab_channel=AcademiaPlay',
     },
   ],
   glosario: [
     {
-      termino: 'Término',
-      significado: 'Texto de la definición',
+      termino: 'Actividad física',
+      significado:
+        'cualquier movimiento corporal producido por los músculos esqueléticos que requiere gasto de energía.',
     },
     {
-      termino: '<em>Término con extranjerismo</em>',
-      significado: 'Definición',
+      termino: 'Cardiopatía coronaria',
+      significado:
+        'enfermedad de los vasos sanguíneos que irrigan el músculo cardiaco, que puede llevar a ataques cardíacos.',
+    },
+    {
+      termino: 'Diabetes <i>mellitus</i>',
+      significado:
+        'enfermedad crónica caracterizada por altos niveles de glucosa en sangre.',
+    },
+    {
+      termino: 'Enfermedades no transmisibles',
+      significado:
+        'enfermedades crónicas que no se contagian de persona a persona, como las cardiovasculares, cáncer, diabetes y enfermedades respiratorias.',
+    },
+    {
+      termino: 'Hipertensión',
+      significado:
+        'condición de presión arterial elevada que aumenta el riesgo de enfermedades cardíacas y otras ENT.',
+    },
+    {
+      termino: 'Inactividad física',
+      significado:
+        'falta de actividad física suficiente para cumplir las recomendaciones mínimas de salud, lo que aumenta el riesgo de desarrollar ENT.',
+    },
+    {
+      termino: 'Obesidad',
+      significado:
+        'exceso de grasa corporal que aumenta el riesgo de enfermedades como la diabetes tipo 2 y enfermedades cardiovasculares.',
+    },
+    {
+      termino: 'Rehabilitación pulmonar',
+      significado:
+        'programa multidisciplinario diseñado para mejorar la capacidad de ejercicio y la calidad de vida en personas con enfermedades respiratorias crónicas.',
+    },
+    {
+      termino: 'Tabaquismo',
+      significado:
+        'consumo de tabaco que constituye un factor de riesgo importante para varias enfermedades, incluidas las ENT.',
+    },
+    {
+      termino: 'Trombosis venosa profunda',
+      significado:
+        'formación de coágulos de sangre en las venas profundas, generalmente en las piernas, que pueden causar embolias si se desplazan hacia los pulmones.',
     },
   ],
   referencias: [
     {
-      referencia: '',
+      referencia:
+        'Alemán, J. A., de Baranda Andujar, P. S., & Ortín, E. J. O. (2014). <i>Guía para la prescripción de ejercicio físico en pacientes con riesgo cardiovascular</i>. SEH-LELHA.',
       link: '',
+    },
+    {
+      referencia:
+        'Doyle, C., Kushi, L. H., Byers, T., Courneya, K. S., Demark-Wahnefried, W., Grant, B., et al. (2006). Nutrition and physical activity during and after cancer treatment: an American Cancer Society guide for informed choices. <i>CA: A Cancer Journal for Clinicians</i>, 56(6), 323-353.',
+      link: '',
+    },
+    {
+      referencia:
+        'Duperly, J., Acevedo, A., Becerra, H., & Cardona, A. F. <i>Cáncer y ejercicio</i>.',
+      link: '',
+    },
+    {
+      referencia:
+        'Kushi, L. H., Byers, T., Doyle, C., Bandera, E. V., McCullough, M., Gansler, T., & Thun, M. J. (2006). American Cancer Society guidelines on nutrition and physical activity for cancer prevention: Reducing the risk of cancer with healthy food choices and physical activity. <i>CA: A Cancer Journal for Clinicians</i>, 56(5), 254-281.',
+      link: '',
+    },
+    {
+      referencia:
+        'León, A. S., Casal, D., & Jacobs Jr., D. (1996). Effects of 2,000 kcal per week of walking and stair climbing on physical fitness and risk factors for coronary heart disease. <i>Journal of Cardiopulmonary Rehabilitation and Prevention</i>, 16(3), 183-192.',
+      link: '',
+    },
+    {
+      referencia:
+        'Lim, S. S., Vos, T., Flaxman, A. D., Danaei, G., Shibuya, K., Adair-Rohani, H., et al. (2012). A comparative risk assessment of burden of disease and injury attributable to 67 risk factors and risk factor clusters in 21 regions, 1990-2010: A systematic analysis for the Global Burden of Disease Study 2010. <i>The Lancet</i>, 380(9859), 2224-2260.',
+      link: '',
+    },
+    {
+      referencia:
+        'Márquez Rosa, S., Rodríguez Ordax, J., & De Abajo Olea, S. (2006). Sedentarismo y salud: Efectos beneficiosos de la actividad física. <i>Apunts</i>, 83.',
+      link: '',
+    },
+    {
+      referencia:
+        'Mozaffarian, D., Fahimi, S., Singh, G. M., Micha, R., Khatibzadeh, S., Engell, R. E., Lim, S., et al. (2014). Global sodium consumption and death from cardiovascular causes. <i>The New England Journal of Medicine</i>, 371(7), 624-634. ',
+      link: 'https://doi.org/10.1056/NEJMoa1304127',
+    },
+    {
+      referencia:
+        'National Institute for Health and Clinical Excellence. (2009). <i>Type 2 diabetes: The management of type 2 diabetes</i>. (NICE Clinical Guideline 87).',
+      link: '',
+    },
+    {
+      referencia:
+        'OMS. (2011). <i>Informe sobre la situación mundial de las enfermedades no transmisibles 2010: Resumen de orientación</i>.',
+      link: '',
+    },
+    {
+      referencia: 'OMS. (2023). <i>Enfermedades no transmisibles</i>. ',
+      link:
+        'https://www.who.int/es/news-room/fact-sheets/detail/noncommunicable-diseases',
+    },
+    {
+      referencia:
+        'Organización Panamericana de la Salud. (2014). <i>Plan de acción para la prevención y el control de las enfermedades no transmisibles en las Américas 2013-2019</i>. Washington, DC: OPS.',
+      link: '',
+    },
+    {
+      referencia:
+        'Panel, E. (2010). American College of Sports Medicine roundtable on exercise guidelines for cancer survivors. <i>Journal of the American College of Sports Medicine</i>, 1409-1426.',
+      link: '',
+    },
+    {
+      referencia: 'Real Academia Española. (2024). Riesgo. ',
+      link: 'https://dle.rae.es/riesgo',
     },
   ],
   creditos: [
@@ -164,8 +305,13 @@ export default {
       titulo: 'CONTENIDO INSTRUCCIONAL',
       autores: [
         {
-          nombre: 'Nombre responsable',
-          cargo: 'Nombre del rol',
+          nombre: 'Leidy del Pilar Aguirre Caicedo',
+          cargo: 'Experta temática',
+          centro: 'Centro de Comercio y Servicios - Regional Risaralda',
+        },
+        {
+          nombre: 'Paola Alexandra Moya',
+          cargo: 'Evaluadora instruccional',
           centro: 'Centro de Servicios de Salud - Regional Antioquia',
         },
       ],
@@ -174,35 +320,35 @@ export default {
       titulo: 'DISEÑO Y DESARROLLO DE RECURSOS EDUCATIVOS DIGITALES',
       autores: [
         {
-          nombre: 'Nombre responsable',
+          nombre: 'Carlos Julian Ramirez Benitez',
           cargo: 'Diseñador de contenidos',
           centro: 'Centro de Servicios de Salud - Regional Antioquia',
         },
         {
-          nombre: 'Nombre responsable',
+          nombre: 'Jhon Jairo Urueta Alvarez',
           cargo: 'Desarrollador <i>full stack</i>',
           centro: 'Centro de Servicios de Salud - Regional Antioquia',
         },
-        {
-          nombre: 'Nombre',
-          cargo: 'Animador y productor audiovisual',
-          centro: 'Centro de Servicios de Salud - Regional Antioquia',
-        },
+        //{
+        //  nombre: 'Nombre',
+        //  cargo: 'Animador y productor audiovisual',
+        //  centro: 'Centro de Servicios de Salud - Regional Antioquia',
+        //},
       ],
     },
     {
       titulo: 'VALIDACIÓN RECURSO EDUCATIVO DIGITAL',
       autores: [
-        {
-          nombre: 'Luis Gabriel Urueta Alvarez',
-          cargo: 'Validador y vinculador de recursos educativos digitales',
-          centro: 'Centro de Servicios de Salud - Regional Antioquia',
-        },
-        {
-          nombre: 'Jaime Hernán Tejada Llano',
-          cargo: 'Validador y vinculador de recursos educativos digitales',
-          centro: 'Centro de Servicios de Salud - Regional Antioquia',
-        },
+        //{
+        //  nombre: 'Luis Gabriel Urueta Alvarez',
+        //  cargo: 'Validador y vinculador de recursos educativos digitales',
+        //  centro: 'Centro de Servicios de Salud - Regional Antioquia',
+        //},
+        //{
+        //  nombre: 'Jaime Hernán Tejada Llano',
+        //  cargo: 'Validador y vinculador de recursos educativos digitales',
+        //  centro: 'Centro de Servicios de Salud - Regional Antioquia',
+        //},
         {
           nombre: 'Daniel Ricardo Mutis Gómez',
           cargo: 'Evaluador de contenidos inclusivos y accesibles',

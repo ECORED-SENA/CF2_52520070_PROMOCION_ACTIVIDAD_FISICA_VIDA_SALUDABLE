@@ -10,7 +10,7 @@
     top: 30%
     right: 20%
   &-3
-    animation: float1 2.8s ease-in-out infinite alternate
+    animation: float2 2.8s ease-in-out infinite alternate
     position: absolute
     top: 70%
     right: 30%
@@ -37,6 +37,48 @@
   color: $color-sistema-texto
 .audio.color-primario .audio__btn, .tarjeta-audio.color-primario .audio__btn, .tarjeta-dialogo.color-primario .audio__btn
   background-color: #AF8182
+
+.slyder-a__btn--sigt, .slyder-a__btn--atrs
+  background-color: #952AEA
+.slyder-a__bullets__item
+  background-color: #FCF0B7
+  margin: 0 3px
+.slyder-a__bullets__item--active
+  background-color: #F6D530
+
+.crd_hover_txt
+  position: relative  
+  padding: 0 !important
+  overflow: hidden !important  
+  &:hover    
+    .crd_hover_txt--body   
+      transition: all 0.5s cubic-bezier(0.42, 0, 0.58, 1) 
+      transform: translateY(0)
+
+  .crd_hover_txt--body
+    position: absolute
+    padding: 1.5rem
+    bottom: 0    
+    transition: all 0.5s cubic-bezier(0.42, 0, 0.58, 1)
+    transform: translateY(calc( 100% - 4.5rem ))
+    background-color: #D5EFFB
+  
+  @media (min-width:1200px) and (max-width:1400px)  
+    .crd_hover_txt--body
+      p
+        font-size: 0.85em
+
+.slyder-f__slyde > .tarjeta
+  95%
+.fa-chevron-right:before
+  color: #952AEA
+.fa-chevron-left:before
+  color: #952AEA
+
+.tarjeta--azul1
+  background-color: #FFF1F1
+.tarjeta.tarjeta--azul1.acordion__activo
+  background-color: #D5EFFB
 
 .bg
   &-c1
@@ -71,6 +113,33 @@
   &-c9
     background-color: #FEE3E4
     border-radius: 15px
+  &-c10
+    background-color: #F4FAFE
+  &-c11
+    background-color: #FFF1F1
+  &-c12
+    background-color: #FEFAE9
+  &-c13
+    background-image: url(../assets/curso/tema2/img4.png)
+    background-repeat: no-repeat
+    margin-inline: -3.2rem !important
+    background-size: cover
+  &-c14
+    background-color: #EBE6DC
+  &-c15
+    background-color: #FEE3E4
+  &-c16
+    background-color: #FBEEAB
+  &-c17
+    background-image: url(../assets/curso/tema2/img18.png)
+    background-repeat: no-repeat
+    margin-inline: -3.2rem !important
+    background-size: contain
+  &-c18
+    background-image: url(../assets/curso/tema2/img29.png)
+    background-repeat: no-repeat
+    margin-inline: -3.2rem !important
+    background-size: cover
   
 .txt
   &-c1
