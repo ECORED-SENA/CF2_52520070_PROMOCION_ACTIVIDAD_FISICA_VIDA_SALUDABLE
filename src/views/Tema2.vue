@@ -57,7 +57,7 @@
     .row.justify-content-center.mb-5
       .col-11.col-md-10.col-lg-8.bg-c10.order-2.order-lg-1(data-aos="fade-right")
         .p-4
-          p.mb-0 En 2023, las enfermedades no transmisibles (ENT) continúan siendo la principal causa de mortalidad global, representando el 75% de las muertes anuales. Dentro de estas, las enfermedades cardiovasculares siguen siendo las más mortales, causando 17,9 millones de muertes al año, seguidas por el cáncer con 9,3 millones, las enfermedades respiratorias crónicas con 4,1 millones y la diabetes con 2 millones de fallecimientos. Estas cuatro enfermedades son responsables de más del 80% de las muertes prematuras relacionadas con ENT, afectando principalmente a personas menores de 70 años. (OMS, 2023)
+          p.mb-0 En 2023, las enfermedades no transmisibles (ENT) continúan siendo la principal causa de mortalidad global, representando el 75 % de las muertes anuales. Dentro de estas, las enfermedades cardiovasculares siguen siendo las más mortales, causando 17,9 millones de muertes al año, seguidas por el cáncer con 9,3 millones, las enfermedades respiratorias crónicas con 4,1 millones y la diabetes con 2 millones de fallecimientos. Estas cuatro enfermedades son responsables de más del 80 % de las muertes prematuras relacionadas con ENT, afectando principalmente a personas menores de 70 años. (OMS, 2023)
       .col-11.col-md-10.col-lg-4.bg-c11.order-1.order-lg-2(data-aos="fade-left")
         .p-4
           figure
@@ -553,7 +553,7 @@
         .row
           .col-12
             .p-4.bg-c15
-              p.mb-0 A nivel mundial, los cinco tipos de cáncer más comunes en mujeres son el de #[b mama], #[b pulmón], #[b estómago], #[b colon/recto] y #[b cuello uterino]. En muchos países en desarrollo, el cáncer cervicouterino es el más frecuente. En los hombres, los tipos más comunes son el de pulmón, hígado, estómago, colon/recto y esófago.
+              p.mb-0 A nivel mundial, los cinco tipos de cáncer más comunes en mujeres son el de #[b mama], #[b pulmón], #[b estómago], #[b colon/recto] y #[b cuello uterino]. En muchos países en desarrollo, el cáncer cervicouterino es el más frecuente. En los hombres, los tipos más comunes son el de #[b pulmón], #[b hígado], #[b estómago], #[b colon/recto] y #[b esófago].
       .col-lg-4.mb-4.mb-lg-0.order-1.order-lg-2(data-aos="fade-left")
         figure
           img(src='@/assets/curso/tema2/img37.png', alt='', style="width: 380px;").m-auto
@@ -562,7 +562,7 @@
         :style="{'background-image': `url(${require('@/assets/curso/tema2/img38.png')})`}"
       )
       .bloque-texto-g__texto.p-4.p-md-5
-        p.mb-0 Los cánceres con mayor impacto en la salud pública son el de mama, #[b cuello uterino] y #[b colon/recto], los cuales pueden ser curables si se detectan a tiempo y reciben tratamiento adecuado. La mayoría de los casos de cáncer podrían prevenirse evitando el consumo de tabaco y alcohol, manteniendo una alimentación adecuada e incorporando actividad física regular.
+        p.mb-0 Los cánceres con mayor impacto en la salud pública son el de #[b mama], #[b cuello uterino] y #[b colon/recto], los cuales pueden ser curables si se detectan a tiempo y reciben tratamiento adecuado. La mayoría de los casos de cáncer podrían prevenirse evitando el consumo de tabaco y alcohol, manteniendo una alimentación adecuada e incorporando actividad física regular.
     .row.mb-5
       .col-lg-8.order-2.order-lg-1(data-aos="fade-right")
         .row.mb-3

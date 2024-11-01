@@ -147,7 +147,7 @@ export default {
         {
           id: 8,
           texto:
-            '¿Cuántos minutos semanales de ejercicio físico se recomienda para adultos con sobrepeso u obesidad?',
+            '¿Cuántos minutos semanales de ejercicio físico se recomiendan para adultos con sobrepeso u obesidad?',
           imagen: require('@/assets/curso/img4.png'),
           barajarRespuestas: true,
           opciones: [

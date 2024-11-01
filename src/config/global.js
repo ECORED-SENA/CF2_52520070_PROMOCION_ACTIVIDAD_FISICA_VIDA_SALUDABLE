@@ -344,11 +344,11 @@ export default {
         //  cargo: 'Validador y vinculador de recursos educativos digitales',
         //  centro: 'Centro de Servicios de Salud - Regional Antioquia',
         //},
-        //{
-        //  nombre: 'Jaime Hernán Tejada Llano',
-        //  cargo: 'Validador y vinculador de recursos educativos digitales',
-        //  centro: 'Centro de Servicios de Salud - Regional Antioquia',
-        //},
+        {
+          nombre: 'Jaime Hernán Tejada Llano',
+          cargo: 'Validador y vinculador de recursos educativos digitales',
+          centro: 'Centro de Servicios de Salud - Regional Antioquia',
+        },
         {
           nombre: 'Daniel Ricardo Mutis Gómez',
           cargo: 'Evaluador de contenidos inclusivos y accesibles',
