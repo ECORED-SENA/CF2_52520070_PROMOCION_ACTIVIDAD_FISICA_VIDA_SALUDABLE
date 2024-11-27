@@ -76,7 +76,7 @@
                         p.txt-c1.mb-4 #[b Pódcast]
                         TarjetaAudio.color-primario.mb-3(
                           texto="Tabaquismo, alcoholismo, alimentación poco saludable e inactividad física."
-                          :audio="require('@/assets/componentes/audios/audio-ej.mp3')"
+                          :audio="require('@/assets/componentes/audios/tabaquismo_consumo_alcohol.mp3')"
                           @audio-hover="mostrarIndicadorTarjetaAudio = false"
                         )
                           .indicador--click(v-if="mostrarIndicadorTarjetaAudio")
