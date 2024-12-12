@@ -320,12 +320,12 @@ export default {
       titulo: 'DISEÑO Y DESARROLLO DE RECURSOS EDUCATIVOS DIGITALES',
       autores: [
         {
-          nombre: 'Carlos Julian Ramirez Benitez',
+          nombre: 'Carlos Julian Ramírez Benitez',
           cargo: 'Diseñador de contenidos',
           centro: 'Centro de Servicios de Salud - Regional Antioquia',
         },
         {
-          nombre: 'Jhon Jairo Urueta Alvarez',
+          nombre: 'Jhon Jairo Urueta Álvarez',
           cargo: 'Desarrollador <i>full stack</i>',
           centro: 'Centro de Servicios de Salud - Regional Antioquia',
         },

@@ -29,7 +29,7 @@
               figure
                 img(src='@/assets/curso/tema2/img1.svg', alt='', style="width: 100px;").m-auto
             .col
-              p.text-center.mb-0 Cancer
+              p.text-center.mb-0 Cáncer
       .col-10.col-md-7.col-lg-5.mb-4
         .p-4.bg-c4.h-100
           .row.align-items-center
@@ -278,7 +278,7 @@
                       img(src='@/assets/curso/tema2/img14.png', alt='', style="width: 350px;").m-auto
                 .row.justify-content-center.align-items-center
                   .col-lg-6.mb-4.mb-lg-0
-                    p #[b Tipo 2: No insulino-dependiente]
+                    p #[b Tipo 2: no insulino-dependiente]
                     p.mb-0 Se caracteriza por altos niveles de glucosa en sangre debido a la resistencia celular a la insulina y a una secreción deficiente por parte del páncreas. Afecta principalmente a personas mayores de 30-40 años. Está asociada a la obesidad, la falta de ejercicio y factores hereditarios. Puede requerir o no la administración de insulina.
                   .col-lg-4
                     figure
